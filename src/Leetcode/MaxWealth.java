@@ -1,4 +1,4 @@
-package LinearSearch;
+package Leetcode;
 
 public class MaxWealth {
     public static void main(String[] args) {
