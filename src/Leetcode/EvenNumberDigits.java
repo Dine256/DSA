@@ -11,7 +11,6 @@ public class EvenNumberDigits {
             if(even(num)){
                 count++;
             }
-
         } return count;
     }
 

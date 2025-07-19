@@ -10,6 +10,7 @@ public class SimpleStack {
         stack.push("Bhuvana");
         stack.push("Lakshu");
         stack.push("Cin");
+        stack.add(2,"3");
 
 
         System.out.println(stack.search("Bhuvana"));
